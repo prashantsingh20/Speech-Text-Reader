@@ -36,7 +36,7 @@ const data = [
   },
   {
     image: './img/riding bike.png',
-    text: "sudhanshu don’t need a therapy, I just need to ride my fat bike",
+    text: "sudhanshu don’t need a therapy, he just need to ride his basanti",
   },
   {
     image: './img/bday.png',
